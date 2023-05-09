@@ -29,7 +29,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Rock_vs_Mine_Prediction.git
+   git clone https://github.com/BloodShoT14/Rock_vs_Mine_Prediction.git
    ```
 
 2. Navigate to the project directory:
